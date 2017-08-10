@@ -1,4 +1,4 @@
-# Map It
+# ext-react-map-example
 
 
 
